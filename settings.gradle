@@ -1,0 +1,8 @@
+rootProject.name = 'fullstack_devlog_zerotohero'
+include 'fsdlzth_001-variables'
+include 'fsdlzth_002-operators'
+include 'fsdlzth_000-helloworld'
+include 'fsdlzth_003-stringclass'
+include 'fsdlzth_005-ifstatement'
+
+include 'fsdlzth_004-mathclass'
