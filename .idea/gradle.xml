@@ -9,12 +9,22 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/fsdlzth_000-helloworld" />
-            <option value="$PROJECT_DIR$/fsdlzth_001-variables" />
-            <option value="$PROJECT_DIR$/fsdlzth_002-operators" />
-            <option value="$PROJECT_DIR$/fsdlzth_003-stringclass" />
-            <option value="$PROJECT_DIR$/fsdlzth_004-mathclass" />
-            <option value="$PROJECT_DIR$/fsdlzth_005-ifstatement" />
+            <option value="$PROJECT_DIR$/java_se" />
+            <option value="$PROJECT_DIR$/java_se/fsdlzth_000-helloworld" />
+            <option value="$PROJECT_DIR$/java_se/fsdlzth_001-variables" />
+            <option value="$PROJECT_DIR$/java_se/fsdlzth_002-operators" />
+            <option value="$PROJECT_DIR$/java_se/fsdlzth_003-stringclass" />
+            <option value="$PROJECT_DIR$/java_se/fsdlzth_004-mathclass" />
+            <option value="$PROJECT_DIR$/java_se/fsdlzth_005-bigdecimal" />
+            <option value="$PROJECT_DIR$/java_se/fsdlzth_006-biginteger" />
+            <option value="$PROJECT_DIR$/java_se/fsdlzth_007-uuid" />
+            <option value="$PROJECT_DIR$/java_se/fsdlzth_008-random" />
+            <option value="$PROJECT_DIR$/java_se/fsdlzth_009-locale" />
+            <option value="$PROJECT_DIR$/java_se/fsdlzth_010-datetime" />
+            <option value="$PROJECT_DIR$/java_se/fsdlzth_011-format" />
+            <option value="$PROJECT_DIR$/java_se/fsdlzth_012-http" />
+            <option value="$PROJECT_DIR$/java_se/fsdlzth_013-ifstatement" />
+            <option value="$PROJECT_DIR$/java_se/fsdlzth_014-loops" />
           </set>
         </option>
       </GradleProjectSettings>
