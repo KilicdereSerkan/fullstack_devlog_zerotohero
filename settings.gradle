@@ -1,7 +1,7 @@
 rootProject.name = 'fullstack_devlog_zerotohero'
+include ':java_se:fsdlzth_000-helloworld'
 include ':java_se:fsdlzth_001-variables'
 include ':java_se:fsdlzth_002-operators'
-include ':java_se:fsdlzth_000-helloworld'
 include ':java_se:fsdlzth_003-stringclass'
 include ':java_se:fsdlzth_004-mathclass'
 include ':java_se:fsdlzth_005-bigdecimal'
@@ -14,5 +14,5 @@ include ':java_se:fsdlzth_011-format'
 include ':java_se:fsdlzth_012-http'
 include ':java_se:fsdlzth_013-ifstatement'
 include ':java_se:fsdlzth_014-loops'
-
+include 'java_se:fsdlzth_015-arrays'
 
