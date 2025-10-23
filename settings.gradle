@@ -16,3 +16,5 @@ include ':java_se:fsdlzth_013-ifstatement'
 include ':java_se:fsdlzth_014-loops'
 include 'java_se:fsdlzth_015-arrays'
 
+
+include 'java_se:fsdlzth_016-exercise_001'
